@@ -109,6 +109,7 @@ cd mocaci
 ```bash
 python -m venv venv
 source venv/bin/activate        # Linux / Mac
+
 venv\Scripts\activate           # Windows
 ```
 
@@ -152,16 +153,15 @@ python src/models/predict.py
 - [✓] Scripts básicos de carga, predicción y visualización
 
 ### Próximas Versiones (v1.1+ / Futuro)
-- [ ] Integración del modelo con API REST
-- [ ] Implementación en servidor institucional o Docker
-- [ ] Dashboard interactivo (Streamlit o Grafana)
-- [ ] Incorporación de logs reales del firewall / Cloudflare
-- [ ] Incorporación de logs reales del firewall / Cloudflare
-- [ ] Entrenamiento incremental (“online learning”)
-- [ ] Mejorar soporte para predicciones en tiempo real
-- [ ] Sistema interno de alertas automáticas basado en probabilidades
-- [ ] Validación con analistas de ciberseguridad de la institución
-- [ ] Ajuste de hiperparámetros y modelos más complejos (XGBoost, LightGBM)
+- Integración del modelo con API REST
+- Implementación en servidor institucional o Docker
+- Dashboard interactivo (Streamlit o Grafana)
+- Incorporación de logs reales del firewall / Cloudflare
+- Entrenamiento incremental (“online learning”)
+- Mejorar soporte para predicciones en tiempo real
+- Sistema interno de alertas automáticas basado en probabilidades
+- Validación con analistas de ciberseguridad de la institución
+- Ajuste de hiperparámetros y modelos más complejos (XGBoost, LightGBM)
 
 ## 🤝 Contribución
 
