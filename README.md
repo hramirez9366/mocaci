@@ -57,7 +57,7 @@ Lista las funcionalidades clave:
 - GitHub (repositorio del proyecto mocaci)
 
 ## 📁 Estructura del Proyecto
-
+```bash
 mocaci/
 │
 ├── data/
@@ -89,7 +89,7 @@ mocaci/
 ├── requirements.txt                        # Dependencias del proyecto
 ├── README.md
 └── .gitignore
-
+```
 ## 🚀 Instalación
 
 ### Prerequisitos
@@ -139,24 +139,24 @@ python src/models/predict.py
 ## 🗺️ Roadmap
 
 ### Versión Actual (v1.0 - MVP)
-- [✓] Dataset institucional simulado (amenazas_ciberseguridad.csv)
-- [✓] Exploración y análisis de datos (EDA)
-- [✓] Peprocesamiento y feature engineering
-- [✓] Entrenamiento de modelo de clasificación (Random Forest / Gradient Boosting)
-- [✓] Notebook demostrativo para predicción
-- [✓] Scripts básicos de carga, predicción y visualización
+[✓] Dataset institucional simulado (amenazas_ciberseguridad.csv)
+[✓] Exploración y análisis de datos (EDA)
+[✓] Peprocesamiento y feature engineering
+[✓] Entrenamiento de modelo de clasificación (Random Forest / Gradient Boosting)
+[✓] Notebook demostrativo para predicción
+[✓] Scripts básicos de carga, predicción y visualización
 
 ### Próximas Versiones (v1.1+ / Futuro)
-- [ ] Integración del modelo con API REST
-- [ ] Implementación en servidor institucional o Docker
-- [ ] Dashboard interactivo (Streamlit o Grafana)
-- [ ] Incorporación de logs reales del firewall / Cloudflare
-- [ ] Incorporación de logs reales del firewall / Cloudflare
-- [ ] Entrenamiento incremental (“online learning”)
-- [ ] Mejorar soporte para predicciones en tiempo real
-- [ ] Sistema interno de alertas automáticas basado en probabilidades
-- [ ] Validación con analistas de ciberseguridad de la institución
-- [ ] Ajuste de hiperparámetros y modelos más complejos (XGBoost, LightGBM)
+[ ] Integración del modelo con API REST
+[ ] Implementación en servidor institucional o Docker
+[ ] Dashboard interactivo (Streamlit o Grafana)
+[ ] Incorporación de logs reales del firewall / Cloudflare
+[ ] Incorporación de logs reales del firewall / Cloudflare
+[ ] Entrenamiento incremental (“online learning”)
+[ ] Mejorar soporte para predicciones en tiempo real
+[ ] Sistema interno de alertas automáticas basado en probabilidades
+[ ] Validación con analistas de ciberseguridad de la institución
+[ ] Ajuste de hiperparámetros y modelos más complejos (XGBoost, LightGBM)
 
 ## 🤝 Contribución
 
