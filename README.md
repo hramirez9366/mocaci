@@ -100,33 +100,38 @@ mocaci/
 
 ### Pasos de instalación
 1. Clonar el repositorio:
-bash
+```bash
 git clone https://github.com/hramirez9366/mocaci.git
 cd mocaci
+```
 
 2. Crear entorno virtual:
-bash
+```bash
 python -m venv venv
 source venv/bin/activate        # Linux / Mac
 venv\Scripts\activate           # Windows
+```
 
 3. Instalar dependencias:
-bash
+```bash
 pip install -r requirements.txt
+```
 
 4. Descargar el modelo entrenado (Opcional) 
 Si ya existe un modelo guardado:
-bash
+```bash
 mkdir models                    #colocar best_model.pkl dentro de /models
+```
 
 5. Ejecutar notebooks o scripts
 Para abrir los notebooks:
-bash
+```bash
 jupyter notebook
-
+```
 O para hacer una predicción directa:
-bash 
+```bash
 python src/models/predict.py
+```
 
 ## 📊 Resultados
 
@@ -164,16 +169,19 @@ python src/models/predict.py
 1. Haz fork del repositorio
 
 2. Crea una rama nueva:
-bash
+```bash
 git checkout -b feature/NuevaCaracteristica
+```
 
 3. Realiza tus cambios y documenta adecuadamente
-bash
+```bash
 git commit -m "Add: Nueva característica"
+```
 
 4. Sube tus cambios:
-bash
+```bash
 git push origin feature/NuevaCaracteristica
+```
 
 5. Abre un Pull Request en GitHub
 
