@@ -44,7 +44,7 @@ Lista las funcionalidades clave:
 - Técnicas de división de datos, evaluación y optimización básica
 
 **Datos:**
-- rchivo CSV: amenazas_ciberseguridad.csv
+- rchivo CSV: amenazas_ciberseguridad_v1.csv
 - Features generados de tráfico institucional 
 
 **Visualización y Análisis:**
@@ -66,7 +66,7 @@ mocaci/
 │   └──  processed/                         # Datos limpios y transformados
 │
 ├── notebooks/
-│   ├── 01_eda.ipynb                        # Exploración y análisis de datos
+│   ├── 01_exploracion_datos.ipynb          # Exploración y análisis de datos
 │   ├── 02_preprocesamiento.ipynb           # Limpieza y feature engineering
 │   └── 03_modelo_clasificacion.ipynb       # Entrenamiento y evaluación del modelo
 │
