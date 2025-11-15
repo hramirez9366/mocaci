@@ -83,7 +83,7 @@ mocaci/
 │       └── visualize.py                            # Gráficos, PCA, métricas
 │
 ├── models/
-│   └── best_model.pkl                              # Modelo entrenado
+│   └── random_forest_mocaci.7z                     # Modelo entrenado, comprimido contiene el archivo pkl
 │
 ├── docs/                                           # Documentación adicional del proyecto
 │   └── Documento_Proyecto.pdf                      # Documento formal a entregar
