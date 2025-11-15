@@ -16,7 +16,7 @@ Clasificar eventos entre las siguientes categorías:
 - DDoS  
 
 ## 3. Dataset Utilizado
-- **Nombre:** `amenazas_ciberseguridad.csv`  
+- **Nombre:** `amenazas_ciberseguridad_v1.csv`  
 - **Registros:** ~3000  
 - **Número de clases:** 6  
 - **Distribución:** Balanceada  
