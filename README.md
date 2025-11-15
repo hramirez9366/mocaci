@@ -62,32 +62,34 @@ mocaci/
 │
 ├── data/
 │   ├── raw/                      
-│   │   └── amenazas_ciberseguridad_v1.csv  # Dataset original
-│   └──  processed/                         # Datos limpios y transformados
-│       └── amenazas_ciberseguridad_.csv    # Dataset procesado
+│   │   └── amenazas_ciberseguridad_v1.csv          # Dataset original
+│   └──  processed/                                 # Datos limpios y transformados
+│       └── amenazas_ciberseguridad_prepared.csv    # Dataset procesado
 │
 ├── notebooks/
-│   ├── 01_exploracion_datos.ipynb          # Exploración y análisis de datos
-│   ├── 02_preprocesamiento.ipynb           # Limpieza y feature engineering
-│   └── 03_modelo_clasificacion.ipynb       # Entrenamiento y evaluación del modelo
+│   ├── 01_exploracion_datos.ipynb                  # Exploración y análisis de datos
+│   ├── 02_preprocesamiento.ipynb                   # Limpieza y feature engineering
+│   └── 03_modelo_clasificacion.ipynb               # Entrenamiento y evaluación del modelo
 │
 ├── src/
 │   ├── data/                     
-│   │   └── load_data.py                    # Funciones para cargar y preparar datos
+│   │   └── load_data.py                            # Funciones para cargar y preparar datos
 │   ├── features/                 
-│   │   └── build_features.py               # Transformaciones y selección de features
+│   │   └── build_features.py                       # Transformaciones y selección de features
 │   ├── models/                   
-│   │   ├── train.py                        # Script de entrenamiento del modelo
-│   │   └── predict.py                      # Script para hacer predicciones con nuevos datos
+│   │   ├── train.py                                # Script de entrenamiento del modelo
+│   │   └── predict.py                              # Script para hacer predicciones con nuevos datos
 │   └── visualization/            
-│       └── visualize.py                    # Gráficos, PCA, métricas
+│       └── visualize.py                            # Gráficos, PCA, métricas
 │
 ├── models/
-│   └── best_model.pkl                      # Modelo entrenado (una vez generado)
+│   └── best_model.pkl                              # Modelo entrenado
 │
-├── docs/                                   # Documentación adicional del proyecto
+├── docs/                                           # Documentación adicional del proyecto
+│   └── Documento_Proyecto.pdf                      # Documento formal a entregar
+│   └── Presentacion_Proyecto.ppt                   # Presentacion en Power Point
 │
-├── requirements.txt                        # Dependencias del proyecto
+├── requirements.txt                                # Dependencias del proyecto
 ├── README.md
 └── .gitignore
 ```
