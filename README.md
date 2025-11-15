@@ -88,6 +88,9 @@ mocaci/
 ├── docs/                                           # Documentación adicional del proyecto
 │   └── Documento_Proyecto.pdf                      # Documento formal a entregar
 │   └── Presentacion_Proyecto.ppt                   # Presentacion en Power Point
+│   └── DATA_DICTIONARY.md                          # Diccicionario de datos
+│   └── MODEL_CARD.md                               # Ficha Tecnica del modelo
+│   └── PROJECT_CHARTER.md                          # Construccion del proyecto
 │
 ├── requirements.txt                                # Dependencias del proyecto
 ├── README.md
