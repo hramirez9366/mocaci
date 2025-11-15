@@ -64,6 +64,7 @@ mocaci/
 │   ├── raw/                      
 │   │   └── amenazas_ciberseguridad_v1.csv  # Dataset original
 │   └──  processed/                         # Datos limpios y transformados
+│       └── amenazas_ciberseguridad_.csv    # Dataset procesado
 │
 ├── notebooks/
 │   ├── 01_exploracion_datos.ipynb          # Exploración y análisis de datos
