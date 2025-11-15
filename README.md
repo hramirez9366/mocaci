@@ -188,7 +188,7 @@ git push origin feature/NuevaCaracteristica
 ## 👥 Equipo
 
 - **Henry Ramirez** - Data Scientist / Analista de Ciberseguridad - [@hramirez9366](https://github.com/hramirez9366)
-- **Juan Laug** - Ingeniero de Datos / Analista de Ciberseguridad - [](https://github.com/)
+- **Juan Laug** - Ingeniero de Datos / Analista de Ciberseguridad - [@juanlaug111](https://github.com/)
 
 ## 📧 Contacto
 
