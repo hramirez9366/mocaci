@@ -5,7 +5,7 @@ Sistema inteligente que identifica y clasifica amenazas cibernéticas automátic
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
 ![ML](https://img.shields.io/badge/Modelo-ML%20Classification-purple)
-![Dataset](https://img.shields.io/badge/Dataset-amenazas_ciberseguridad.csv-orange)
+![Dataset](https://img.shields.io/badge/Dataset-amenazas_ciberseguridad_v1.csv-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎯 Problema
