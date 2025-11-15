@@ -62,7 +62,7 @@ mocaci/
 │
 ├── data/
 │   ├── raw/                      
-│   │   └── amenazas_ciberseguridad.csv     # Dataset original
+│   │   └── amenazas_ciberseguridad_v1.csv     # Dataset original
 │   └──  processed/                         # Datos limpios y transformados
 │
 ├── notebooks/
